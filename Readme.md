@@ -6,7 +6,7 @@
 <br>
 
 ## Project live link
-[Project-17](# "Not yet")
+[https://my-rodeclone.netlify.app/](https://my-rodeclone.netlify.app/ "rode.com")
 
 <hr>
 
